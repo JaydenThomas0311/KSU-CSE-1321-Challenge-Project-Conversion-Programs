@@ -1,10 +1,11 @@
 # KSU-CSE-1321-Challenge-Project-Conversion-Programs
 
 This was an optional challenge project offered during my 1321 Programming and Problem Solving lecture at KSU.
-In the source folder you will find the main driver program, and 3 accompanying files which contain the classes necessary for the 3 different conversions needed:
+In the source folder you will find the main driver program and 3 accompanying files which contain the classes necessary for the 3 different conversions needed:
 1. Temperature
 2. Weight
 3. Currency
+
 Each class has its own unique methods for conducting conversions, for example the temperature conversion class will contain a method for conversion from Celsius to Fahrenheit, and vice versa.
 The main method prompts the user with a menu for conversion options, and will offer to do so continuously as long as the user decides not to quit the application.
 
